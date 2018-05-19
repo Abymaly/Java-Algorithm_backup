@@ -119,7 +119,7 @@ public class SLL<T> {
     }
 
     public void headToTail(Node newHead) {
-        
+
         Node ref = head;
 
         while (ref.next != null) {

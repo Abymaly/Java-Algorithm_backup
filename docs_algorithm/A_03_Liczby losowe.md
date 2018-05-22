@@ -17,6 +17,3 @@ Jak działa generator?
         - kongruencja sumy to suma kongruencji;
         - (A + B) / C (gdzie: A - stara liczba, B - jakaś stała, C - zakres)
         - wystarczy tylko dobrze dodać A, B i C ;)
-
-
-
